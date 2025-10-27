@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.58f2
+CRC: 4078605453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e83651b31c563d4954d6337aed5cdf51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6bb73d06b62c219c4ac865d5b1c75bc0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0c26f8d97799e17d50d4524b81310dbf
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 3dbdd48f55e41da43bd68b71df2bea52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67eee1d4f67fa7d4e835fc7610b4dec6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: HG.MATCHTOWN.CORE.Goal
+- AssemblyName: Assembly-CSharp
+  ClassName: HG.MATCHTOWN.CORE.Layer
+- AssemblyName: Assembly-CSharp
+  ClassName: HG.MATCHTOWN.CORE.LayerData
+- AssemblyName: Assembly-CSharp
+  ClassName: HG.MATCHTOWN.CORE.Level
+Assets:
+- Assets/_Game/Resources/Levels/Level 2.asset
+- Assets/_Game/Resources/Levels/Level 1.asset
+Dependencies: []
